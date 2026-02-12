@@ -4,7 +4,7 @@ import RoleDisplay from "./RoleDisplay";
 
 function UserRoleManagementPanel() {
   const [role, setRole] = useState("Viewer");
-  const [name] = useState("John Doe");
+  const [name] = useState("Srinidhi");
 
   return (
     <div
